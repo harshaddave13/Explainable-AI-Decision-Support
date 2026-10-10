@@ -1,0 +1,28 @@
+[
+  {
+    "id": "T001",
+    "category": "answerable",
+    "question": "What are the main responsibilities of a responsible person under fire safety regulations?",
+    "expected_answer_status": "answered",
+    "expected_sources": [
+      {
+        "filename": "fire_safety_offices_shops.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "T002",
+    "category": "unsupported",
+    "question": "What is the current price of Bitcoin?",
+    "expected_answer_status": "abstained",
+    "expected_sources": []
+  },
+  {
+    "id": "T003",
+    "category": "ambiguous",
+    "question": "Is a fire risk assessment required for every building?",
+    "expected_answer_status": "abstained",
+    "expected_sources": []
+  }
+]
